@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Sergio Daniel Vasquez Garcia",
-    "label": "Full Stack Developer,Soy un graduado del bootcamp SoyHenry. Desarrollé mis habilidades como un Fullstack Developer, pero en la actualidad busco mejorar mi desempeño como un FrontEnd Developer.",
+    "label": "Full Stack Developer web",
     "image": "/Sergio.webp",
     "email": "vasquezsergiodg@gmail.com",
     "phone": "+58 4148785788",
     "url": "",
-    "summary": "",
+    "summary": "Venezolano con mucho entusiasmo que radica en el desarrollo de proyectos creativos e innovadores. Ahora, estoy emocionado por la oportunidad de contribuir a un equipo dinámico y seguir creciendo en un entorno que fomente la excelencia y el aprendizaje continuo. Explorar nuevas posibilidades y crear soluciones impactantes es mi pasión. Graduado de 𝗛𝗲𝗻𝗿𝘆. Desarrollé mis habilidades como un 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, pero en la actualidad busco mejorar mi desempeño como un 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿.",
     "location": {
       "address": "",
       "postalCode": "8050",
@@ -28,60 +28,46 @@
     ]
   },
   "work": [
-    {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
+     {
+      "name": "Tecnico instalador de sistema de seguridad",
+      "position": "Tecnico",
+      "url": null,
+      "startDate": "2022-01-01",
       "endDate": null,
-      "summary": "",
+      "summary": "Intalar sistemas de seguridad como sensores de movimiento, Sistemas de CCTV para empresas grandes, Residencias, Centros comerciales.",
       "highlights": [
         ""
       ]
     },
     {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "name": "Teaching Assistant",
+      "position": "Lider de un grupo de estudiantes",
+      "url": "https://www.soyhenry.com/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-02-08",
+      "summary": "Tareas principales: Coordinar a un grupo de estudiantes para lograr la integración al grupo de estudio. Orientar a los estudiantes en los primeros pasos de la cursada.  Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming). Proponer ideas para la mejora de los procesos del Bootcamp.",
       "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
+        "La experiencia de conocer de como piensa cada persona en el mundo de TI"
       ]
     }
+   
+    
+    
+    
   ],
-  "volunteer": [{
-    "organization": "",
-    "position": "",
-    "url": "",
-    "startDate": "",
-    "endDate": "",
-    "summary": "",
-    "highlights": [
-      "'"
-    ]
-  }],
   "education": [{
-    "institution": "",
-    "url": "",
-    "area": "",
-    "studyType": "",
-    "startDate": "",
-    "endDate": "",
-    "score": "",
+    "institution": "Bootcamp SoyHenry",
+    "url": "https://www.soyhenry.com/",
+    "area": "Developer Full Stack",
+    "studyType": "Full Stack",
+    "startDate": "2023-09-01",
+    "endDate": "2024-08-01",
+    "score": "4.5",
     "courses": [
-      ""
+      "Frontend, Backend, Base de datos."
+    ],
+    "materia": [
+      "HTML, CSS, JAVASCRIPT, REACT, SQL, GIT, GITHUB."
     ]
   }],
   "certificates": [{
@@ -181,22 +167,25 @@
   ],
   "projects": [
     {
-      "name": "",
+      "name": "PI, Country",
       "isActive": true,
-      "description": "",
+      "description": "Practica sobre las tegnologias aprendidas en el bootcamp soyhenry donde demuestro mis habilidades sobre como contruir una Single Page Application utlizando las tecnologías: React, Redux, Node, Express y Sequelize.",
+      "github": "https://github.com/Ditrex24/APiCountrySP",
       "highlights": [
-        "",
-        ""
+        "Desarrollar solo una Single page application.",
+        "Fallar siempre te lleva al exito."
       ],
       "url": ""
     },
     {
-      "name": "",
+      "name": "PF, Inmuebles 360",
       "isActive": true,
-      "description": "",
+      "description": "Proyecto final de graduacion en grupo para el bootcamp SoyHenry, Donde tendriamos que crear un Ecommerce completo desde filtrado combinado hasta procesadores de pago. Un grupo de 8 participantes hemos creado Inmuebles 360",
       "highlights": [
-        ""
+        "Aprender nuevas tecnologias ya que era tema libre.",
+        "Aprender a trabajar en equipo y no pisarse el codigo"
       ],
+      "github":"https://github.com/joaBotto/proyectofinal",
       "url": ""
     }
   
