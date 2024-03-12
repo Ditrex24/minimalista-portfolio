@@ -43,7 +43,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 ## 🚀 Empezar
 
-### 1. Usa este [repo](https://github.com/midudev/minimalist-portfolio-json) como _template_ de un proyecto de Astro
+### 1. Usa este [repo](https://github.com/Ditrex24/minimalista-portfolio) como _template_ de un proyecto de Astro
 
 
 - Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
